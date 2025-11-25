@@ -118,19 +118,11 @@ The following stored procedures are used for secure and validated database opera
 
 ## 🖼️ Screenshots
 
-### 🔐 Login & Signup
-![Sign Up](img/1%20(1).png)
-![Sign In](img/1%20(2).png)
 
-### 🔏 Encryption & Decryption
+
+
 ![Encryption Page](img/1%20(3).png)
-![Decryption Page](img/1%20(4).png)
-
-### 🗄️ Encrypted Data Bank
-![Database View](img/1%20(5).png)
-
-### 🧪 Password Strength Checker
-![Password Strength Checker](img/1%20(6).png)
+![Sign Up](img/1%20(1).png)
 
 ---
 
