@@ -53,29 +53,6 @@ Includes **user authentication**, **password strength validation**, and a **real
 
 ---
 
-## 📂 Project Structure
-
-SecureCrypt/
-│
-├── Forms/
-│   ├── SignUp.cs
-│   ├── SignIn.cs
-│   ├── Encryption.cs
-│   ├── Decryption.cs
-│   ├── dataBankDatabase.cs
-│   └── PasswordStrengthChecker.cs
-│
-├── Database/
-│   ├── SecureCryptDB.mdf
-│   ├── StoredProcedures.sql
-│
-├── Icons/
-│   └── SecureCrypt.ico
-│
-├── README.md
-└── Program.cs
-
----
 
 ## ⚙️ How to Run the Project
 
@@ -141,9 +118,7 @@ The following stored procedures are used for secure and validated database opera
 
 ## 🖼️ Screenshots
 
-| Sign Up Page | Encryption Page | Database Page |
-| :---: | :---: | :---: |
-| ![Sign Up Page](screenshots/signup.png) | ![Encryption Page](screenshots/encryption.png) | ![Database Page](screenshots/database.png) |
+
 
 ---
 
